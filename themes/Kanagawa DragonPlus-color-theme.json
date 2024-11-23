@@ -1,5 +1,5 @@
 {
-	"name": "Kanagawa DragonPlus",
+  "name": "Kanagawa DragonPlus",
   "colors": {
     "terminal.ansiBlack": "#0D0C0C",
     "terminal.ansiRed": "#C4746E",
@@ -61,6 +61,21 @@
     "editorLineNumber.foreground": "#6E7681",
     "editorOverviewRuler.border": "#010409",
     "editorWidget.background": "#202020",
+    "editorBracketMatch.background": "#0D0C0C",
+    "editorBracketMatch.border": "#625E5A",
+    "editorBracketHighlight.foreground1": "#8992A7",
+    "editorBracketHighlight.foreground2": "#B6927B",
+    "editorBracketHighlight.foreground3": "#8BA4B0",
+    "editorBracketHighlight.foreground4": "#A292A3",
+    "editorBracketHighlight.foreground5": "#C4B28A",
+    "editorBracketHighlight.foreground6": "#8EA4A2",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#C4746E",
+    "editorBracketPairGuide.activeBackground1": "#8992A7",
+    "editorBracketPairGuide.activeBackground2": "#B6927B",
+    "editorBracketPairGuide.activeBackground3": "#8BA4B0",
+    "editorBracketPairGuide.activeBackground4": "#A292A3",
+    "editorBracketPairGuide.activeBackground5": "#C4B28A",
+    "editorBracketPairGuide.activeBackground6": "#8EA4A2",
     "errorForeground": "#F85149",
     "focusBorder": "#0078D4",
     "foreground": "#CCCCCC",
@@ -127,7 +142,6 @@
     "tab.unfocusedActiveBorder": "#1F1F1F",
     "tab.unfocusedActiveBorderTop": "#2B2B2B",
     "tab.unfocusedHoverBackground": "#1F1F1F",
-    "terminal.foreground": "#CCCCCC",
     "terminal.tab.activeBorder": "#0078D4",
     "textBlockQuote.background": "#2B2B2B",
     "textBlockQuote.border": "#616161",
@@ -146,7 +160,7 @@
     "welcomePage.progress.foreground": "#0078D4",
     "widget.border": "#313131"
   },
-   "tokenColors": [
+  "tokenColors": [
     {
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],

@@ -2,7 +2,7 @@
   "name": "kanagawa-dragonplus",
   "displayName": "Kanagawa DragonPlus",
   "description": "A combination of the Kanagawa Dragon theme with the default VsCode Dark+ theme for Visual Studio Code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Filipe Andrade (https://github.com/filipeyay)",
   "icon": "./images/icon.png",
   "keywords": [
